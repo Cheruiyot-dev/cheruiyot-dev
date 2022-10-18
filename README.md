@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Cheruiyot-dev</h1>
+<h1 align="center">Hi 👋, I'm Cheruiyot</h1>   
 <h3 align="center">A passionate frontend developer from Nairobi</h3>
-<img align= “right” alt = “Coding” width = “400” src = “https://acegif.com/wp-content/uploads/gif/smiling-dog-14.gif”
+<img align= "right" alt = "Coding" width = "400" src = "https://acegif.com/wp-content/uploads/gif/smiling-dog-14.gif" </img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheruiyot-dev&label=Profile%20views&color=0e75b6&style=flat" alt="cheruiyot-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cheruiyot-dev" alt="cheruiyot-dev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/cheruiyott1092" target="blank"><img src="https://img.shields.io/twitter/follow/cheruiyott1092?logo=twitter&style=for-the-badge" alt="cheruiyott1092" /></a> </p>
+<p align="left"> <a href="https://twitter.com/cheruiyot1092" target="blank"><img src="https://img.shields.io/twitter/follow/cheruiyott1092?logo=twitter&style=for-the-badge" alt="cheruiyott1092" /></a> </p>
 
 - 💬 Ask me about **react, django**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/cheruiyot1092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cheruiyott1092" height="30" width="40" /></a>
+<a href="https://twitter.com/cheruiyott1092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cheruiyott1092" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
